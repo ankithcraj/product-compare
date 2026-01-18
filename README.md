@@ -49,3 +49,7 @@ Users can compare up to **three products side-by-side**, with visual highlightin
 
 ### Mobile View
 [Mobile View](assets/screenshots/mobile-view.png)
+
+
+### Link to hoisted version
+https://ankithcraj.github.io/product-compare/
